@@ -1,0 +1,14 @@
+{   "name": "Genesis King",
+    "description": "Genesis King is one of the kings of the park",
+    "image": "https://ipfs.io/ipfs/QmPdpz76JqkozXyYL4CPsj6tjTy7qCqfsZUyY55xTUH339?filename=Algorand_Genesis_King_-2.png",
+    "image_mimetype": "image/jpeg",
+    "external_url": "https://ipfs.io/ipfs/QmPdpz76JqkozXyYL4CPsj6tjTy7qCqfsZUyY55xTUH339?filename=Algorand_Genesis_King_-2.png",
+    "properties": {
+      "Chair":"Bushy Tree", 
+      "Staff":"Red Bulb", 
+      "Crown":"Saphire and Ruby",
+      "Background":"Blue", 
+      "Cloak":"Purple", 
+      "Head":"Angry"
+    }
+}

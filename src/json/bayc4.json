@@ -1,0 +1,14 @@
+{   "name": "BAYC4",
+    "description": "BAYC with pink skin in red pajamas",
+    "image": "https://ipfs.io/ipfs/QmNM4yJYz3jMrGSLH1YNeonL63xtbZdC6FT559v6Eyoq1k",
+    "image_mimetype": "image/png",
+    "external_url": "https://ipfs.io/ipfs/QmNM4yJYz3jMrGSLH1YNeonL63xtbZdC6FT559v6Eyoq1k",
+    "properties": {
+        "Skin":"Pink", 
+        "Clothes":"Red pajamas", 
+        "Head": "Deep blue hat",
+        "Ear":"No ear ring", 
+        "Eye":"No glass", 
+        "Mouth":"Cigarette"
+      }
+}

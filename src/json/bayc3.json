@@ -1,0 +1,14 @@
+{   "name": "BAYC3",
+    "description": "BAYC with pink skin in Deep Green T shirt",
+    "image": "https://ipfs.io/ipfs/QmNMAsXWtQS7nLwLw44oLdDWewqYscisR25YL3taRDkkFh",
+    "image_mimetype": "image/png",
+    "external_url": "https://ipfs.io/ipfs/QmNMAsXWtQS7nLwLw44oLdDWewqYscisR25YL3taRDkkFh",
+    "properties": {
+        "Skin":"Pink", 
+        "Clothes":"Deep Green T shirt", 
+        "Head":"Deep Green BAYC Cap",
+        "Ear":"Blue ear ring", 
+        "Eye":"No glass", 
+        "Mouth":"Big mouth"
+      }
+}

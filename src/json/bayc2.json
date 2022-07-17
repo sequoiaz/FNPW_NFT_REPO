@@ -1,0 +1,14 @@
+{   "name": "BAYC2",
+    "description": "BAYC with brown skin in orange shirt",
+    "image": "https://ipfs.io/ipfs/QmNLtxEYGBw9EqECCbMSXPf8Nofswt3ZxcCJwZRk5NB2Y1",
+    "image_mimetype": "image/png",
+    "external_url": "https://ipfs.io/ipfs/QmNLtxEYGBw9EqECCbMSXPf8Nofswt3ZxcCJwZRk5NB2Y1",
+    "properties": {
+        "Skin":"Brown", 
+        "Clothes":"Orange jacket", 
+        "Head":"Green hat",
+        "Ear":"Blue ear ring", 
+        "Eye":"Single eye", 
+        "Mouth":"Blow"
+      }
+}

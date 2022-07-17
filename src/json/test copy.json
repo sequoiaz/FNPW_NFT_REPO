@@ -1,0 +1,10 @@
+{   "name": "My Song",
+    "description": "My first and best song!",
+    "image": "mysong.png",
+    "image_integrity": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+    "image_mimetype": "image/png",
+    "external_url": "https://mysongs.com/song/mysong",
+    "animation_url": "mysong.ogg",
+    "animation_url_integrity": "sha256-LwArA6xMdnFF3bvQjwODpeTG/RVn61weQSuoRyynA1I=",
+    "animation_url_mimetype": "audio/ogg"
+}

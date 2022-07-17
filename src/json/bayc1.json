@@ -1,0 +1,14 @@
+{   "name": "BAYC1",
+    "description": "BAYC with Leopard skin in red square shirt",
+    "image": "https://ipfs.io/ipfs/QmNLoezbXkk37m1DX5iYADRwpqvZ3yfu5UjMG6sndu1AaQ",
+    "image_mimetype": "image/png",
+    "external_url": "https://ipfs.io/ipfs/QmNLoezbXkk37m1DX5iYADRwpqvZ3yfu5UjMG6sndu1AaQ",
+    "properties": {
+        "Skin":"Leopard", 
+        "Clothes":"Red Square shirt", 
+        "Head":"No hat",
+        "Ear":"No ear ring", 
+        "Eye":"No glass", 
+        "Mouth":"Angry"
+      }
+}
