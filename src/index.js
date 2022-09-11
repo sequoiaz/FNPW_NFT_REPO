@@ -135,11 +135,12 @@ class App extends React.Component {
  
     const owneracc = this.state.acc;
     const creatoracc = this.state.creatoraccount;
+    const ownerbal = this.state.bal;
 
     let nftindex = await indexNFTlist(creatoracc.networkAccount.addr);
    
 
-    if (nftindex < this.state.NFT_list.length){
+    if (nftindex < this.state.NFT_list.length && ownerbal >= this.state.NFT_list[nftindex].price){
 
       const nftDat = await createAsset(creatoracc.networkAccount, this.state.NFT_list[nftindex].assetMetadatajson, this.state.NFT_list[nftindex].assetMetadatajson_url);
       
